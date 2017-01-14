@@ -1,1 +1,12 @@
+body {
+  background-color: blue;
+  }
 
+#topbox {
+  background-color: white;
+  border: 13px solid black;
+}
+
+.topbox-text {
+
+}
