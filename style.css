@@ -1,10 +1,10 @@
 body {
-  background-color: blue;
+  background-color: white;
   }
 
 #topbox {
   background-color: white;
-  border: 13px solid black;
+  border-bottom: 2px dotted black;
 }
 
 .topbox-text {
